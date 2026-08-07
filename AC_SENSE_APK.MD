@@ -1,4 +1,4 @@
-VERSION: 2.0.2
+VERSION: 3.0.2
 NOTES:
 
 - Added new P.M.C (Pending SMS Clear) option in Settings
