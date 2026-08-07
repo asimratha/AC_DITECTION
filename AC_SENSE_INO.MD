@@ -1,4 +1,4 @@
-VERSION: V13.5.PM164407AUG2026
+VERSION: V13.6.PM164407AUG2026
 NOTES:
 
 - Added automatic pending SMS clear feature
